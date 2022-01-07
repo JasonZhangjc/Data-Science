@@ -1,2 +1,1 @@
-# Data-Science
- Data Science Projects.
+A Data Science Project for Pokemon Analysis.
